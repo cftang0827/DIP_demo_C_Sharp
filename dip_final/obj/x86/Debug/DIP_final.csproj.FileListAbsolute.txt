@@ -1,0 +1,108 @@
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\DIP_final.exe.config
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\DIP_final.exe
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\DIP_final.pdb
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\Emgu.CV.UI.dll
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\Emgu.CV.UI.GL.dll
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\Emgu.CV.World.dll
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\ZedGraph.dll
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\Emgu.CV.UI.xml
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\Emgu.CV.UI.GL.xml
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\Emgu.CV.World.xml
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\obj\x86\Debug\DIP_final.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\obj\x86\Debug\DIP_final.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\obj\x86\Debug\DIP_final.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\obj\x86\Debug\DIP_final.exe
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\obj\x86\Debug\DIP_final.pdb
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\obj\x86\Debug\DIP_final.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\msvcp140.dll
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\opencv_ffmpeg310.dll
+c:\users\user\documents\visual studio 2012\Projects\DIP_final\DIP_final\bin\x86\Debug\vcruntime140.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\DIP_final.exe.config
+C:\Users\User\Desktop\新增資料夾\DIP_final\obj\x86\Debug\DIP_final.exe
+C:\Users\User\Desktop\新增資料夾\DIP_final\obj\x86\Debug\DIP_final.pdb
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\Emgu.CV.UI.GL.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\Emgu.CV.UI.GL.xml
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\msvcp140.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\opencv_ffmpeg310.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\vcruntime140.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\ZedGraph.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\DIP_final.exe.manifest
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\DIP_final.application
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\DIP_final.exe
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\DIP_final.pdb
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\Emgu.CV.World.dll
+C:\Users\User\Desktop\新增資料夾\DIP_final\bin\x86\Debug\Emgu.CV.World.xml
+C:\Users\User\Desktop\新增資料夾\DIP_final\obj\x86\Debug\DIP_final.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\新增資料夾\DIP_final\obj\x86\Debug\DIP_final.Form1.resources
+C:\Users\User\Desktop\新增資料夾\DIP_final\obj\x86\Debug\DIP_final.Properties.Resources.resources
+C:\Users\User\Desktop\新增資料夾\DIP_final\obj\x86\Debug\DIP_final.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\新增資料夾\DIP_final\obj\x86\Debug\DIP_final.exe.manifest
+C:\Users\User\Desktop\新增資料夾\DIP_final\obj\x86\Debug\DIP_final.application
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\DIP_final.exe.config
+D:\Dropbox\DIP\DIP_final\obj\x86\Debug\DIP_final.exe
+D:\Dropbox\DIP\DIP_final\obj\x86\Debug\DIP_final.pdb
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\Emgu.CV.UI.dll
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\Emgu.CV.UI.GL.dll
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\Emgu.CV.UI.GL.xml
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\Emgu.CV.UI.xml
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\msvcp140.dll
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\opencv_ffmpeg310.dll
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\vcruntime140.dll
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\ZedGraph.dll
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\DIP_final.exe.manifest
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\DIP_final.application
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\DIP_final.exe
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\DIP_final.pdb
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\Emgu.CV.World.dll
+D:\Dropbox\DIP\DIP_final\bin\x86\Debug\Emgu.CV.World.xml
+D:\Dropbox\DIP\DIP_final\obj\x86\Debug\DIP_final.csprojResolveAssemblyReference.cache
+D:\Dropbox\DIP\DIP_final\obj\x86\Debug\DIP_final.Form1.resources
+D:\Dropbox\DIP\DIP_final\obj\x86\Debug\DIP_final.Properties.Resources.resources
+D:\Dropbox\DIP\DIP_final\obj\x86\Debug\DIP_final.csproj.GenerateResource.Cache
+D:\Dropbox\DIP\DIP_final\obj\x86\Debug\DIP_final.exe.manifest
+D:\Dropbox\DIP\DIP_final\obj\x86\Debug\DIP_final.application
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\Emgu.CV.UI.dll
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\Emgu.CV.UI.GL.dll
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\Emgu.CV.UI.GL.xml
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\Emgu.CV.UI.xml
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\msvcp140.dll
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\opencv_ffmpeg310.dll
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\vcruntime140.dll
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\ZedGraph.dll
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\DIP_final.exe.config
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\DIP_final.exe.manifest
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\DIP_final.application
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\DIP_final.exe
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\DIP_final.pdb
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\Emgu.CV.World.dll
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\bin\x86\Debug\Emgu.CV.World.xml
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\obj\x86\Debug\DIP_final.Form1.resources
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\obj\x86\Debug\DIP_final.Properties.Resources.resources
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\obj\x86\Debug\DIP_final.csproj.GenerateResource.Cache
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\obj\x86\Debug\DIP_final.exe.manifest
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\obj\x86\Debug\DIP_final.application
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\obj\x86\Debug\DIP_final.exe
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\obj\x86\Debug\DIP_final.pdb
+D:\Dropbox\Dropbox\DIP (1)\DIP_final\obj\x86\Debug\DIP_final.csprojResolveAssemblyReference.cache
